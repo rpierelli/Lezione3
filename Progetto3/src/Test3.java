@@ -8,6 +8,9 @@ public class Test3 {
  // modifica 1
  
  // modifica utemte
+ 
+ System.out.println();
+ int s=9;
 
 	}
 
