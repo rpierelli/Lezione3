@@ -12,6 +12,9 @@ public class Test3 {
  System.out.println();
  int s=9;
 
+ char car='c';
+ 
+ 
 	}
 
 }
